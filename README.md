@@ -1,1 +1,2 @@
 # odin-recipes
+This project is an assignment for The Odin Project's curriculum. It is a website that contains food recipes. In completing this I have learned about html elements like anchors, images, lists and more.
